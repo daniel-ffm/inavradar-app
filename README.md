@@ -6,9 +6,8 @@ https://nodejs.org/en/
 
 Donwload and install Android Studio:
 https://developer.android.com/studio/install
-
 Start studio, click thru the setup wizard.
-Start the SDK manager and install SDK version 19.
+In the welcome panel, Configure->SDK manager and install SDK version 18.
 
 ```
 git clone https://github.com/daniel-ffm/inavradar-app
