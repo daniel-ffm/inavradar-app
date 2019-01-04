@@ -4,7 +4,10 @@ Debugging app for INAVradar-ESP32
 Download and install node.js LTS:
 https://nodejs.org/en/
 
-Donwload and install Android Studio:
+Download and install Java 1.8:
+http://www.oracle.com/technetwork/java/javase/downloads
+
+Download and install Android Studio:
 https://developer.android.com/studio/install
 Start studio, click thru the setup wizard.
 In the welcome panel, Configure->SDK manager and install SDK version 18.
